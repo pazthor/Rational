@@ -4,4 +4,8 @@
  *integers, except that d cannot be zero. n is called 
  *the numerator and d the denominator
  */
-class Rational {}
+class Rational (n: Int, d: int) {
+	val numerator = n 
+	val denominator = d
+
+}
